@@ -14,7 +14,8 @@ LoZnvPj &rarr; immagine 00.jpg
 wEJEjBd &rarr; immagine 01.jpg  
 La6Vj9b &rarr; immagine 02.jpg  
 
-Per l'esecuzione dello script suggerisco anzitutto di aprire un terminale nella cartella usata per lo script.  
+Per l'esecuzione dello script suggerisco anzitutto di aprire un terminale nella cartella usata per lo script.
+Se si usa Linux impostare il file come eseguibile.
 
 Quindi, se si usa Windows digitare:  
 `python3 -m scarica_documenti`
